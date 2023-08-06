@@ -1,0 +1,405 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.section-1{
+    height: 800px;
+    background-color: aquamarine;
+    display: inline-block;
+    width: 100%;
+    background-image: url('../images/login.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.section-2{
+    height: 400px;
+    background-color:white;
+    display: inline-block;
+    width: 100%;
+
+}
+.section-3{
+    height: 500px;
+    background-color:black;
+    display: inline-block;
+    width: 100%;
+
+}
+.section-4{
+    height: 400px;
+    background-color: rgb(4, 157, 165);
+    display: inline-block;
+    width: 100%;
+
+}
+.section-5{
+    height: 600px;
+    background-color:rgb(230, 226, 226);
+    display: inline-block;
+    width: 100%;
+
+}
+.section-6{
+    height: 600px;
+    background-color: brown;
+    display: inline-block;
+    width: 100%;
+    background-image: url('../images/background1.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.section-7{
+    height: 300px;
+    background-color:white;
+    display: inline-block;
+    width: 100%;
+
+}
+.section-8{
+    height: 500px;
+    background-image: url("../images/background2.avif");
+    display: inline-block;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    color: orange;
+    font-size: 100px;
+    margin-left: 200px;
+    text-align: left;
+    padding-top: 200px;
+}
+.p1{
+    color: white;
+    margin-top: -40px;
+    margin-left: 200px;
+    
+}
+.h1{
+    width: 200px;
+    height: 10px;
+    background-color: orange;
+    margin-left: 200px;
+    border: orange;
+}
+.name{
+    height: 40px;
+    width: 500px;
+    margin-left: 900px;
+    margin-top: -240px;
+    background: transparent;
+    border: 1px solid white;
+
+}
+h2{
+    font-size: 60px;
+    color: white;
+    margin-left: 900px;
+    margin-top: -240px;
+}
+.email1{
+    height: 50px;
+    width: 500px;
+    margin-left: 900px;
+    margin-top: 20px;
+    background: transparent;
+    border: 1px solid white;
+
+}
+.message{
+    height: 150px;
+    width: 500px;
+    margin-left: 900px;
+    margin-top: 20px;
+    background: transparent;
+    border: 1px solid white;
+}
+button{
+    height: 50px;
+    width: 120px;
+    color: white;
+    background-color: orange;
+    margin-left: 900px;
+    margin-top: 20px;
+    border: orange;
+}
+.child-1{
+    height: 400px;
+    width: 30%;
+    background-color: white;
+    float: left;
+}
+.child-2{
+    height: 400px;
+    width: 30%;
+    background-color: white;
+    float:left;
+}
+.about{
+    color: orange;
+    font-size: 50px;
+    margin-left: 100px;
+}
+.cp1{
+    text-align: left;
+    margin-left: 100px;
+    color: black;
+}
+.cp2{
+    margin-top: 160px;
+    color: black;
+    margin-left: -1px;
+}
+.cb1{
+    margin-left: 3px;
+}
+.child-3{
+    height: 400px;
+    width: 30%;
+    background-color: white;
+    float:left;
+    text-align: center;
+    margin-top: 60px;
+}
+.img1{
+    height: 300px;
+    width: 400px;
+}
+.best{
+    text-align:center;
+    color: orange;
+    font-size: 50px;
+    margin-top: -170px;
+    margin-left: -120px;
+}
+.s3p{
+    margin-top: -10px;
+    margin-left: 410px;
+    color:white;
+    
+}
+
+.sp{
+    margin-top: -10px;
+    margin-left: 410px;
+    color: black;
+}
+.child1{
+    width: 25%;
+    height: 300px;
+    background-color:black;
+    float: left;
+}
+.child2{
+    width: 25%;
+    height: 300px;
+    background-color:black;
+    float: left;
+}
+
+.child3{
+    width: 25%;
+    height: 300px;
+    background-color:black;
+    float: left;
+}
+.child4{
+    width: 25%;
+    height: 300px;
+    background-color:black;
+    float: left;
+}
+.icon{
+    height: 70px;
+    width: 70px;
+    margin-left: 100px;
+}
+h3{
+    text-align: center;
+    margin-left: -130px;
+    color: white;
+}
+.p2{
+    margin-left: 40px;
+    color: white;
+    
+}
+.section-4{
+    height: 400px;
+    background-image: url("../images/background.jpg");
+    display: inline-block;
+    width: 100%;
+    padding-top: 20px;
+
+}
+#headding{
+    color: orange;
+    margin-left: -780px;
+    font-size: 50px;
+}
+.section-4 h3,p{
+    margin-left: 100px;
+    color: white;
+
+}
+#Details{
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+.img2{
+    height: 230px;
+    width: 350px;
+}
+.div1{
+    height: 420px;
+    width: 350px;
+    background-color: white;
+    margin-left: 245px;
+    float: left;
+}
+.div2{
+    height: 420px;
+    width: 350px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+}
+
+.div3{
+    height: 420px;
+    width: 350px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+}
+h4{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.divp{
+    text-align:left;
+    color: black;
+    margin-left: 10px;
+    margin-top: -20px;
+}
+.h2{
+    width: 100px;
+    height: 10px;
+    background-color: orange;
+    margin-left: 10px;
+    border: orange;
+}
+.img3{
+    background-image: url("../images/background1.avif");
+    background-size: cover;
+    
+}
+.man{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    margin-left: 700px;
+    margin-top: 60px;
+}
+.man1{
+    color: white;
+    margin-left: 550px;
+    font-family: 20px;
+}
+.mansign{
+    color: orange;
+    margin-left: 650px;
+    font-size: 40px;
+}
+.logo1{
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+.logo2{
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+.logo3{
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+.logo4{
+    height: 300px;
+    float:left;
+    width: 350px;
+}
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    height: 300px;
+    width: 250px;
+    border: 2px solid yellow;
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left: 100px;
+}
+.di1{
+    height: 390px;
+    width: 15%;
+    background-color: white;
+    margin-left: 280px;
+    float: left;
+    margin-top: 60px;
+}
+.ig2{
+    height: 250px;
+    width: 238px;
+}
+.di2{
+    height: 390px;
+    width: 15%;
+    background-color: white;
+    margin-left: 20px;
+    float: left;
+    margin-top: 60px;
+}
+.di3{
+    height: 390px;
+    width: 15%;
+    background-color: white;
+    margin-left: 20px;
+    float: left;
+    margin-top: 60px;
+}
+.di4{
+    height: 390px;
+    width: 15%;
+    background-color: white;
+    margin-left: 20px;
+    float: left;
+    margin-top: 60px;
+}
+.button1{
+    height: 50px;
+    width: 120px;
+    color: white;
+    background-color: orange;
+    margin-left: 20px;
+    margin-top: -20px;
+    border: orange;
+}
